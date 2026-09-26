@@ -15,3 +15,6 @@
 
 Для четвертой задачи "Классификация видео" так же использован pipeline от huggingface для обращения к finetuned модели, которая уже обучена распознавать видео.
 Документация: https://huggingface.co/MCG-NJU/videomae-base-finetuned-kinetics
+
+https://docs.github.com/en/actions/tutorials/build-and-test-code/python
+https://docs.pytest.org/en/stable/
