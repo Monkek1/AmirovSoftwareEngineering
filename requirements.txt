@@ -2,3 +2,4 @@ fastapi[standard]
 pytest
 httpx2
 transformers
+torch
