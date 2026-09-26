@@ -12,3 +12,6 @@
 Для третьей задачи "Автоматические распознование речи из аудио" был использован pipeline от huggingface для обращения к
 инференесу модели whisper-base от open-ai. Для чтения аудиофайлов понадобилось устанавливать пакет winget install "FFmpeg (Essentials Build)" иначе выдавало ошибку.
 Документация: https://huggingface.co/docs/transformers/tasks/asr
+
+Для четвертой задачи "Классификация видео" так же использован pipeline от huggingface для обращения к finetuned модели, которая уже обучена распознавать видео.
+Документация: https://huggingface.co/MCG-NJU/videomae-base-finetuned-kinetics
